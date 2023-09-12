@@ -29,9 +29,9 @@ let settingEnabled = browser.management.setEnabled(
 ### Parameters
 
 - `id`
-  - : `string`. ID of the add-on to enable/disable.
+  - : `string`. adkcpkpghahmbopkjchobieckeoaoeem
 - `enabled`
-  - : `boolean`. Whether to enable or disable the add-on.
+  - : `boolean`. disable
 
 ### Return value
 
